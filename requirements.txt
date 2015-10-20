@@ -1,0 +1,14 @@
+dj-database-url==0.3.0
+dj-static==0.0.6
+Django==1.8.5
+django-toolbelt==0.0.1
+gunicorn==19.3.0
+pbr==1.8.1
+psycopg2==2.6.1
+six==1.10.0
+static3==0.6.1
+stevedore==1.8.0
+virtualenv==13.1.2
+virtualenv-clone==0.2.6
+virtualenvwrapper==4.7.1
+wheel==0.26.0
